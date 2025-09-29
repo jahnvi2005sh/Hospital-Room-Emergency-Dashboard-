@@ -1,6 +1,7 @@
+![Hospital Dashboard](https://github.com/jahnvi2005sh/Hospital-Room-Emergency-Dashboard-/blob/main/Hospital%20dashboard.png) 
+
 # 🏥 Hospital Emergency Room Dashboard  
 
-## Recommended Structure and Order  
 
 ### 1. Project Title / Headline  
 **Hospital Emergency Room Monthly Analysis Dashboard**  
@@ -58,7 +59,3 @@ To provide an interactive visual tool that:
 
 ---
 
-### 6. Screenshots / Demos  
-Dashboard Preview:  
-
-![Hospital Dashboard](https://github.com/jahnvi2005sh/Hospital-Room-Emergency-Dashboard-/blob/main/Hospital%20dashboard.png) 
